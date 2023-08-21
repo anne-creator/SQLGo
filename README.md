@@ -1,2 +1,1 @@
-Turn natural language into SQL queries
-
+Turn your words into SQL queries
